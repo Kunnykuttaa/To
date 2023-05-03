@@ -6,7 +6,7 @@ time.sleep(5)
 pyautogui.moveTo(287,42,3)
 pyautogui.click()
 
-pyautogui.typewrite('https://direct-link.net/264305/Hhggg')
+pyautogui.typewrite('https://link-center.net/675968/bgm-new-update')
 pyautogui.press('enter')
 time.sleep(10)
 pyautogui.moveTo(998,402,3)
