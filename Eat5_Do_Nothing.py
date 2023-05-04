@@ -6,7 +6,7 @@ time.sleep(5)
 pyautogui.moveTo(287,42,3)
 pyautogui.click()
 
-pyautogui.typewrite('https://direct-link.net/675968/kanguva-movie')
+pyautogui.typewrite('https://link-center.net/675968/18news')
 pyautogui.press('enter')
 time.sleep(10)
 pyautogui.moveTo(998,402,3)
